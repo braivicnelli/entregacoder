@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+        "nodemon": "^2.0.15"
+    },
+    "name": "strwclothes-main",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+        "start": "node src/server.js"
+    },
+    "keywords": [],
+    "author": "@braivicinelli",
+    "license": "ISC",
+    "description": "página de ropa, indumentaria"
+}
